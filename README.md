@@ -1,4 +1,4 @@
-# MusicGen Dreamboothing
+# MusicGen Dreamboothing (Read "readme_ins" file for running it.)
 
 This repository contains lightweight training code for [MusicGen](https://github.com/facebookresearch/audiocraft/blob/main/docs/MUSICGEN.md), a state-of-the-art controllable text-to-music model. MusicGen is a single stage auto-regressive Transformer model trained over a [32kHz Encodec tokenizer](https://huggingface.co/facebook/encodec_32khz) with 4 codebooks sampled at 50 Hz.
 
